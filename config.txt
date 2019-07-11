@@ -1,5 +1,5 @@
-token=
-owner=ID 
+token=NTk4NTc4OTE4MTE0NDU5NjYw.XSdVNA.yO-osv0AlU9K43EBOnXOVcnLNIs
+owner=446694720144539658
 prefix=1
 game=type 1help
 stayinchannel=true
